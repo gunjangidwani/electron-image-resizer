@@ -1,0 +1,24 @@
+{
+  "name": "image_resizer",
+  "version": "1.0.0",
+  "description": "resize your image in descktop app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gunjangidwani/electron-image-resizer.git"
+  },
+  "author": "Gunjan Gidwani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gunjangidwani/electron-image-resizer/issues"
+  },
+  "homepage": "https://github.com/gunjangidwani/electron-image-resizer#readme",
+  "dependencies": {
+    "electron": "^37.2.3",
+    "resize-img": "^2.0.0",
+    "toastify-js": "^1.12.0"
+  }
+}
